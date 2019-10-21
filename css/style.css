@@ -1,0 +1,22 @@
+body{
+    background-color: #efcfb6;
+    font-family: 'Montserrat', sans-serif;
+    color: #23374d;
+}
+.pizza h1{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    font-size: 200px;
+    position: absolute;
+    top: 0px;
+    left: 40%;
+    transition-duration: 3s;
+
+}
+.pizza h3{
+    font-size: 30px;
+}
+.pizza h1:hover{
+    color: black;
+    transform: rotateZ(360deg);
+}
